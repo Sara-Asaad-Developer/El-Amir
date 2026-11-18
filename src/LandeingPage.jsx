@@ -8,10 +8,10 @@ export default function LandeingPage() {
             <img className='relative w-90 h-90 md:w-120 lg:w-160  md:h-120  lg:h-160  ms-3 md:ms-35  ' src={A1} alt="" />
 
             <div className='  h-dvh  lg:absolute   lg:left-76   lg:w-200 '>
-                <img className='w-50 md:w-87 lg:w-115 h-35 md:h-40 lg:h-45  absolute bottom-80 left-16 md:bottom-50 md:left-52 lg:bottom-50 lg:left-59 ' src={A2} alt="" />
+                <img className='w-53 md:w-87 lg:w-115 h-37 md:h-40 lg:h-45  absolute bottom-100 left-20 md:bottom-50 md:left-52 lg:bottom-50 lg:left-59 ' src={A2} alt="" />
                 <img className='w-10 md:w-20 h-10 md:h-20 lg:w-30 lg:h-30 absolute bottom-108 left-61 md:bottom-88 md:left-120 lg:bottom-97 lg:left-156  z-1 ' src={A3} alt="" />
 
-                <div className=' flex  items-baseline gap-1 absolute bottom-113 left-8 md:bottom-60 md:left-40  lg:bottom-59 lg:left-47 '>
+                <div className=' flex  items-baseline gap-1 absolute bottom-115 left-10 md:bottom-60 md:left-40  lg:bottom-59 lg:left-47 '>
                     <h1 className='text-red-700 font-bold text-[170px] md:text-[190px] lg:text-[277px] '>El</h1>
                     <h2 className='text-red-700 font-bold text-[75px] md:text-[115px] lg:text-[150px] '>Amir</h2>
                 </div>

@@ -4,8 +4,8 @@ import A3 from './assets/Second One.png'
 export default function LandeingPage() {
     return (
         <div className=' w-full flex flex-col lg:pl-80 '>
-            <img className='relative w-70 h-70 md:w-120 lg:w-160  md:h-120  lg:h-160  ms-3 md:ms-35  ' src={A1} alt="" />
-            <div className=' lg:w-200 lg:absolute  left-76  h-dvh   '>
+            <img className='relative w-100 h-100 md:w-120 lg:w-160  md:h-120  lg:h-160  ms-3 md:ms-35  ' src={A1} alt="" />
+            <div className='   absolute  left-76  h-dvh  lg:w-200 '>
                 <img className='w-50 md:w-87 lg:w-115 h-35 md:h-40 lg:h-45  absolute bottom-80 left-16 md:bottom-50 md:left-52 lg:bottom-50 lg:left-59 ' src={A2} alt="" />
                 <img className='w-10 md:w-20 h-10 md:h-20 lg:w-30 lg:h-30 absolute bottom-108 left-61 md:bottom-88 md:left-120 lg:bottom-97 lg:left-156  z-1 ' src={A3} alt="" />
 

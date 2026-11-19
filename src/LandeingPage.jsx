@@ -16,10 +16,10 @@ export default function LandeingPage() {
                     <h2 className='text-red-700 font-bold text-[75px] md:text-[115px] lg:text-[150px] '>Amir</h2>
                 </div>
 
-                <div className=' absolute bottom-80 left-8 md:bottom-45 md:left-45 lg:bottom-37 lg:left-47 text-center'>
-                    <h1 className='text-[#4933ad] text-[12px] md:text-[20px] lg:text-[27px] font-bold'>For Commercial Agencies</h1>
-                    <h1 className='text-[#4933ad] text-[12px] md:text-[20px] lg:text-[27px] font-bold'>And Advanced Industries</h1>
-                    <h1 className='text-[#4933ad] text-[12px] md:text-[20px] lg:text-[27px] font-bold'>شركة الامير للتوكيلات التجارية والصناعات المتطورة</h1>
+                <div className=' absolute bottom-100 left-10 md:bottom-45 md:left-45 lg:bottom-37 lg:left-47 text-center'>
+                    <h1 className='text-[#4933ad] text-[15px] md:text-[20px] lg:text-[27px] font-bold'>For Commercial Agencies</h1>
+                    <h1 className='text-[#4933ad] text-[15px] md:text-[20px] lg:text-[27px] font-bold'>And Advanced Industries</h1>
+                    <h1 className='text-[#4933ad] text-[15px] md:text-[20px] lg:text-[27px] font-bold'>شركة الامير للتوكيلات التجارية والصناعات المتطورة</h1>
                 </div>
             </div>
         </div>

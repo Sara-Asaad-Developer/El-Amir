@@ -9,7 +9,7 @@ export default function LandeingPage() {
 
             <div className='  h-dvh  lg:absolute   lg:left-76   lg:w-200 '>
                 <img className='w-55 md:w-87 lg:w-115 h-40 md:h-40 lg:h-45  absolute bottom-108 left-20 md:bottom-50 md:left-52 lg:bottom-50 lg:left-59 ' src={A2} alt="" />
-                <img className='w-15 md:w-20 h-15 md:h-20 lg:w-30 lg:h-30 absolute bottom-140 left-73 md:bottom-88 md:left-120 lg:bottom-97 lg:left-156  z-1 ' src={A3} alt="" />
+                <img className='w-15 md:w-20 h-15 md:h-20 lg:w-30 lg:h-30 absolute bottom-140 left-72 md:bottom-88 md:left-120 lg:bottom-97 lg:left-156  z-1 ' src={A3} alt="" />
 
                 <div className=' flex  items-baseline gap-1 absolute bottom-115 left-12 md:bottom-60 md:left-40  lg:bottom-59 lg:left-47 '>
                     <h1 className='text-red-700 font-bold text-[170px] md:text-[190px] lg:text-[277px] '>El</h1>
